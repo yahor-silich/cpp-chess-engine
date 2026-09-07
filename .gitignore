@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Compiled C++ binaries and debugging symbols
+chess
+*.out
+*.exe
+*.dSYM/

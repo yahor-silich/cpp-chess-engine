@@ -26,7 +26,7 @@ You need a C++ compiler installed on your system (e.g., Clang, GCC, or MSVC).
 Clone the repository and compile the source file using your terminal:
 
 ```bash
-git clone [https://github.com/yahor-silich/cpp-chess-engine.git](https://github.com/yahor-silich/cpp-chess-engine.git)
+git clone https://github.com/yahor-silich/cpp-chess-engine.git
 cd cpp-chess-engine
 g++ chess.cpp -o chess
-./chess
+./chess 

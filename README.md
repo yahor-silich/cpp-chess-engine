@@ -30,3 +30,4 @@ git clone https://github.com/yahor-silich/cpp-chess-engine.git
 cd cpp-chess-engine
 g++ chess.cpp -o chess
 ./chess 
+```
